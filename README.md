@@ -19,3 +19,7 @@ annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
 
 5. Download lottie animation json file here -> https://lottiefiles.com/featured
 6. Implement LottieAnimationView
+
+![lottie heart animation](lottie_heart_animation.gif)
+
+Heart Animation here -> https://lottiefiles.com/362-like
